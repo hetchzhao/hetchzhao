@@ -1,1 +1,5 @@
-## Hey, ouuan here! :wave: [![ ](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/hetczhao)
+## Hi there 👋
+
+I'm heqizhao, a front-end engineer.
+
+- 🔭 I'm currentyly working on my project [diamond](https://github.com/hetchzhao/diamond)

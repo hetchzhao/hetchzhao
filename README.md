@@ -2,6 +2,8 @@
 
 I'm heqizhao, a front-end engineer.
 
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...

@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=heqizhao">]() -->
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=hetchzhao]()
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
 I'm heqizhao, a front-end engineer.
 

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currentyly working on my project [diamond](https://github.com/hetchzhao/diamond)
+- 🔭 I'm currentyly working on my project [diamond-plus](https://github.com/hetchzhao/diamond)
 - 💬 Ask me about **Vue** and **Webpack**.
 
 ## ✒️ Recent Posts

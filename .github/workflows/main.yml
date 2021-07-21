@@ -25,5 +25,5 @@ jobs:
         git config --global user.email "hetchzhao@gmail.com"
         git config --global user.name "hetchzhao"
         git add README.md
-        git commit -m "Github Action Auto Updated"
+        git commit -m "Github Action Auto Updated" || exit
         git push

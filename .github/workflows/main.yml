@@ -1,8 +1,7 @@
-name: 'hetch'
+name: 'hetchzhao'
 
 on:
   push:
-    branches: [ master ]  # master有更新
   schedule:
     - cron: '0/30 * * * *'
 
@@ -19,11 +18,11 @@ jobs:
       uses: VaultVulp/action-pipenv@v2.0.1
       with:
         command: run build
-  - name: Commit and push if changed   # 将README.md更新到仓库
-    run: |
-      git diff
-      git config --global user.email "hetchzhao@aliyun.com"
-      git config --global user.name "hetchzhao"
-      git add README.md
-      git commit -m "Updated Readme" || exit 
-      git push
+    - name: Commit and push if changed   # 更新README.md
+      run: |
+        git diff
+        git config --global user.email "hetchzhao@gmail.com"
+        git config --global user.name "hetchzhao"
+        git add README.md
+        git commit -m "Github Action Auto Updated"
+        git push
